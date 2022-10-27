@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExoPlay</string>
+    <string name="initValue">00:00</string>
+</resources>
